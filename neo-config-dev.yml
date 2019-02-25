@@ -22,4 +22,4 @@ spring:
     maxOpenPreparedStatements: 20
     
 const:
-    name：123
+  name: 123
