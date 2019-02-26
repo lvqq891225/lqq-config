@@ -2,7 +2,7 @@ spring:
   datasource:
     name: bidwcm
     url: jdbc:sqlserver://172.17.100.188:1433;DatabaseName=bidwcm
-    username: sa
+    username: sa11
     password: 654321,
     # 使用druid数据源
     type: com.alibaba.druid.pool.DruidDataSource
